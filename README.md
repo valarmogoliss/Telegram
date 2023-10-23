@@ -5,7 +5,7 @@ This repo contains the official source code for [Telegram App for Android](https
 
 ## Creating your Telegram Application
 
-We welcome all developers to use our API and source code to create applications on our platform.
+We welcome all developers to use our APeate applications on our platform.
 There are several things we require from **all developers** for the moment.
 
 1. [**Obtain your own api_id**](https://core.telegram.org/api/obtaining_api_id) for your application.
