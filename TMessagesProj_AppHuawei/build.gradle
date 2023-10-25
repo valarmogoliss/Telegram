@@ -7,9 +7,7 @@ repositories {
     maven { url 'https://developer.huawei.com/repo/' }
 }
 
-configurations {
-    compile.exclude module: 'support-v4'
-}
+# nothing to do yet
 
 configurations.all {
     exclude group: 'com.google.firebase', module: 'firebase-core'
